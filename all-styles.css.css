@@ -1,0 +1,73 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+#wrapper {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: #cce2ec;
+   
+    
+}
+#header {
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
+    box-sizing: border-box;
+    background-image: url(../images/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg);
+    background-position-x:center;
+}
+#navigation 
+{
+    padding: 30px 60px;
+    background-color:#82b3c9;
+    text-align: center;
+}
+#navigation a 
+{
+padding: 30px 60px;
+text-decoration: none;
+text-transform: uppercase;
+background-color:#82b3c9;
+}
+h1
+{
+    color: rgb(255, 255, 255);
+    text-shadow: 100px;
+    text-align:unset;
+}
+h2
+{
+    text-align: center;
+    size: 32px;
+}
+p 
+{ 
+    color: rgb(57, 46, 46);
+    text-align: center;
+    line-height: 1.5;
+}
+ul
+{
+    text-align: left;
+}
+#navigation div
+{
+    color: #ffe0b2;
+}
+#navigation a:hover 
+{
+color: rgb(216, 252, 57);
+}
+
+#content 
+{
+    padding: 100px 20px;
+    text-align: center;
+}
+#footer 
+{
+    padding: 10px 10px;
+    text-align: center;
+    background-color:#82b3c9;
+}
